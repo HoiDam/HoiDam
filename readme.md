@@ -11,10 +11,9 @@ var hoidam = {
     dataBase: [MYSQL, PostgreSQL, Orcale, Access, MSSQL],
     noSQL:[MongoDB],
     tools: [React, Redux, NodeJS, Docker, Composer],
-    techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+    currentWorkingAt: {
+                        companyName: "Great Eagle HK",
+                        type: "Summer Intern",
                       },
 }
 ```
