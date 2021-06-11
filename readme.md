@@ -1,4 +1,4 @@
-<h2> Hello There! IAM HoiDam.<iframe src="https://giphy.com/embed/jpbnoe3UIa8TU8LM13" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h2>
+<h2> Hello There! IAM HoiDam.<img src="./cat.gif" width="50"></h2>
 <img align='right' src="./icon.png" width="230">
 <p><em>Final Year at <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a><img src="./poly.png" width="30">
 
