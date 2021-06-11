@@ -1,7 +1,7 @@
-<h2> Hello There! IAM HoiDam<img src="./cat.gif" width="50"></h2>
+<h2> Hello There! HoiDam here (๑•̀ㅂ•́)و✧ <img src="./cat.gif" width="50"></h2>
 <img align='right' src="./icon.png" width="230">
 
-### <img src="./shu.gif" width="50"> HoiDam JSON   
+### <img src="./shu.gif" width="50"> About Me   
 
 ```javascript
 var hoidam = {
