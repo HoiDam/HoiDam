@@ -1,4 +1,4 @@
-<h2> Hello There! IAM HoiDam.<iframe src="https://giphy.com/embed/jpbnoe3UIa8TU8LM13" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13">via GIPHY</a></p></h2>
+<h2> Hello There! IAM HoiDam.<iframe src="https://giphy.com/embed/jpbnoe3UIa8TU8LM13" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h2>
 <img align='right' src="./icon.png" width="230">
 <p><em>Final Year at <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a><img src="./poly.png" width="30">
 
@@ -6,7 +6,7 @@
 [![GitHub HoiDam](https://img.shields.io/github/followers/hoidam?label=follow&style=social)](https://github.com/HoiDam)
 
 
-### <div class="tenor-gif-embed" data-postid="19852098" data-share-method="host" data-width="50" data-aspect-ratio="1.7913669064748199"><a href="https://tenor.com/view/anime-guilty-crown-ouma-shu-ramen-eat-gif-19852098">Anime Guilty Crown GIF</a> from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> HoiDam JSON   
+### <img src="./shu.gif" width="50"> HoiDam JSON   
 
 ```javascript
 var hoidam = {
