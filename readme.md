@@ -19,7 +19,6 @@ var hoidam = {
 ```
 <p><em>Final Year at <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a><img src="./poly.png" width="30">
 
-[![Linkedin: hoidam](https://img.shields.io/badge/Alvin-Leung-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvinleung-hoidam/)
 [![GitHub HoiDam](https://img.shields.io/github/followers/hoidam?label=follow&style=social)](https://github.com/HoiDam)
 
 ---
