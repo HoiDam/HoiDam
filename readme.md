@@ -16,10 +16,10 @@ var hoidam = {
                             companyName: "Great Eagle HK",
                             type: "Summer Intern",
                           },
-  },
-  secMode:{
-  //To Be Added
-  }
+   },
+   secMode:{
+   //To Be Added
+   }
 }
 ```
 <p><em>Final Year at <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a><img src="./poly.png" width="30">
