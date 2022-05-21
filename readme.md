@@ -8,18 +8,18 @@ var hoidam = {
     alternativeName: "Dam"|"Alvin",
     currentWorkingAt: {
                         companyName: "OOCL",
-                        position: "Anaylst",
+                        position: "Analyst",
     },
-    developerMode:{
+    developerMode: {
         frontEnd: [HTML, CSS, Javascript, Java, Python, C++],
         backEnd: [Python, PHP],
         dataBase: [MYSQL, PostgreSQL, Orcale, Access, MSSQL],
         noSQL:[MongoDB],
         tools: [React, Redux, NodeJS, Docker, k8s, Composer]
-   },
-   secMode:{
-            beginners: [Red_teaming, Blue_teaming, SIEM, Machine_Learning_Approachs],
-            intermediates: [Access_Control, Blockchains]
+    },
+       secMode: {
+                beginners: [Red_teaming, Blue_teaming, SIEM, Machine_Learning_Approachs],
+                intermediates: [Access_Control, Blockchains]
     }
 }
 ```
