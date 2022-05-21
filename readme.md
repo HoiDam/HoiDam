@@ -17,7 +17,7 @@ var hoidam = {
         noSQL:[MongoDB],
         tools: [React, Redux, NodeJS, Docker, k8s, Composer]
     },
-       secMode: {
+    secMode: {
                 beginners: [Red_teaming, Blue_teaming, SIEM, Machine_Learning_Approachs],
                 intermediates: [Access_Control, Blockchains]
     }
