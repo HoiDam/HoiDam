@@ -27,5 +27,6 @@ var hoidam = {
     
 [![GitHub HoiDam](https://img.shields.io/github/followers/hoidam?label=follow&style=social)](https://github.com/HoiDam)
 [![LeetCode HoiDam](https://img.shields.io/badge/LeetCode-HoiDam-orange)](https://leetcode.com/HoiDam)
+![](https://komarev.com/ghpvc/?username=HoiDam) 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=HoiDam&show_icons=true&hide_border=true&theme=dark)
